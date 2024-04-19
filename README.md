@@ -22,5 +22,5 @@ This implementation uses the built-in switches of the board: 3 switches for cont
 
 ## Authors
 
-- [Alex Balint]()
+- [Alex Balint](https://github.com/alexxmlc)
 - [Serban Afrasinei](https://github.com/AfraIsNotAvailable)
